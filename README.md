@@ -17,4 +17,6 @@ The labels of each face image is embedded in the file name, formated like [age][
 
 --> [date&time] is in the format of yyyymmddHHMMSSFFF, showing the date and time an image was collected to UTKFace.
 
+Sample input images have been uploaded for quick reference.
+
 For docs and info contact sobikasenthilnathan@gmail.com
