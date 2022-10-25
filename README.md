@@ -21,5 +21,3 @@ Sample input images have been uploaded for quick reference.
 
 ##  
 This project was made as a mini-project for the course CS6301 - Machine Learning
-
-For docs and info contact sobikasenthilnathan@gmail.com
